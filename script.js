@@ -99,22 +99,22 @@ const translations = {
         "A Proclarus conecta engenharia, analytics e governança para transformar informação em vantagem competitiva.",
 
         service1Title:
-        "Engenharia de Dados",
+        "Fundação de Dados",
 
         service1Description:
-        "Construção de pipelines escaláveis, Data Lakes, Data Warehouses e arquiteturas modernas.",
+        "Estruturamos e conectamos seus dados para criar uma base confiável e escalável, preparada para acompanhar o crescimento do seu negócio.",
 
         service2Title:
-        "Analytics & BI",
+        "Inteligência de Negócios",
 
         service2Description:
-        "Dashboards executivos, KPIs e visualizações estratégicas.",
+        "Transformamos dados em indicadores, dashboards e insights que apoiam decisões mais rápidas e estratégicas.",
 
         service3Title:
-        "Automação Inteligente",
+        "Automação e Eficiência",
 
         service3Description:
-        "Integrações, APIs e automação de processos.",
+        "Automatizamos processos e conectamos sistemas para reduzir retrabalho, aumentar produtividade e liberar tempo para atividades estratégicas",
 
         aboutTitle:
         "Clarity Through Data",
@@ -161,22 +161,22 @@ const translations = {
         "Proclarus connects engineering, analytics and governance to turn information into competitive advantage.",
 
         service1Title:
-        "Data Engineering",
+        "Data Foundation",
 
         service1Description:
-        "Scalable pipelines, Data Lakes, Data Warehouses and modern architectures.",
+        "We structure and connect your data to create a reliable and scalable foundation, ready to support your business growth.",
 
         service2Title:
-        "Analytics & BI",
+        "Business Intelligence",
 
         service2Description:
-        "Executive dashboards, KPIs and strategic visualizations.",
+        "We turn data into indicators, dashboards, and insights that support faster and more strategic decisions.",
 
         service3Title:
-        "Intelligent Automation",
+        "Automation and Efficiency",
 
         service3Description:
-        "Integrations, APIs and process automation.",
+        "We automate processes and connect systems to reduce rework, increase productivity, and free up time for strategic activities.",
 
         aboutTitle:
         "Clarity Through Data",
